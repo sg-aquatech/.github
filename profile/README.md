@@ -1,5 +1,3 @@
-# Singapore Aquaculture Technologies
-
 ## About Us
 
 Established in 2012, Singapore Aquaculture Technologies set out to develop a technology driven approach to aquaculture whilst keeping in tune with the environment, adopting sustainable practices and producing superior quality products.
